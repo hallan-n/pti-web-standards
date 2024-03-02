@@ -2,6 +2,8 @@
 
 Este projeto consiste em um trabalho acadêmico desenvolvido como parte do currículo da disciplina de Desenvolvimento Web. A tarefa proposta envolve a criação de uma landing page responsiva para uma nutricionista especializada em tratamento de obesidade, performance física e doenças crônicas, utilizando HTML, CSS e Flexbox.
 
+## [Veja a página em produção](https://hallan-n.github.io/pti-web-standards/)
+
 ## Atividade proposta
 Desenvolver uma Landing page para um negócio pequeno
 
